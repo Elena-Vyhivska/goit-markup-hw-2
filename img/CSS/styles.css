@@ -1,0 +1,120 @@
+/* основные цвета */
+/* основной цвет color: #212121; */
+/* цвет мелким шрифтом color: #757575; */
+/* цвет адреса  color: rgba(255, 255, 255, 0.6);*/ 
+/* вторичный цвет color: #FFFFFF;*/
+/* цвет для лого color: #2196F3;*/
+body {
+color: #212121;
+background-color: #fff;
+font-family: Roboto, sans-serif; 
+}
+ ul {
+list-style: none;
+ }
+.graybackground-page,.graybackground {
+background: #2F303A; 
+}
+/* ссилки */
+.change-color {
+color: #212121; 
+}
+.change-color-mail{
+color: #757575;
+}
+.change-color-mail:hover,
+.change-color-mail:focus,
+.contactable-info:hover {
+color: #2196F3;
+}
+.change-color:hover,
+.change-color:focus {
+color: #2196F3;
+}
+.contactable {
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.contactable-info {
+color: rgba(255, 255, 255, 0.6);
+}
+/*логотип*/
+.logo, .logo-page, .logo-page-too {
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+color: #2196F3;
+}
+.logo-page {
+color: #212121;
+}
+.logo-page-too {
+color: #fff;
+}
+header {
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+.main-text {
+font-weight: 900;
+font-size: 44px;
+color: #fff;
+}
+/*кнопки*/
+.button {
+font-size: 16px;
+line-height: 30px;
+background-color: #2196F3;;
+color: #FFFFFF;   
+}
+.button-less {
+font-weight: 500;
+ font-size: 16px;
+ line-height: 26px;
+ color: #212121;   
+}
+/*инфортмация*/
+.information {
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+}
+.information-text {
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #757575;
+}
+.presentation {
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+}
+.presentation-name {
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;   
+}
+.presentation-prof {
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #757575;  
+}
+.pictures-page {
+font-weight: bold;
+font-size: 18px;
+line-height: 36px;
+color: #212121;
+}
+.pictures-link {
+font-weight: normal;
+font-size: 16px;
+line-height: 30px; 
+color: #757575;
+}
